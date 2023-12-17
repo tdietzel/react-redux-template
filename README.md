@@ -34,9 +34,11 @@ You can try out the live demo of *PROJECT NAME* [here](https://tdietzel22.github
 - NPM (Node Package Manager): for package management
 - Lint: for code quality and style checking
 - Vite: Build tool for modern web development
-- React.js: JavaScript library for building user interfaces
 - Vitest: for testing the JavaScript code
-- uuid: Library for generating unique identifiers
+- React.js: JavaScript library for building user interfaces
+- Redux: State management library
+- @reduxjs/toolkit: Redux toolkit for efficient Redux development
+- React Redux: Official React bindings for Redux
 
 ## Features
 - **FEATURE**: 
